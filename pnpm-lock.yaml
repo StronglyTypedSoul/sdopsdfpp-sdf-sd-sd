@@ -689,8 +689,8 @@ importers:
         specifier: ^7.0.7
         version: 7.0.10
       oauth4webapi:
-        specifier: ^3.3.0
-        version: 3.3.0
+        specifier: ^3.8.5
+        version: 3.8.5
       preact:
         specifier: 10.24.3
         version: 10.24.3
@@ -10810,8 +10810,8 @@ packages:
   nullthrows@1.1.1:
     resolution: {integrity: sha512-2vPPEi+Z7WqML2jZYddDIfy5Dqb0r2fze2zTxNNknZaFpVHU3mFB3R+DWeJWGVx0ecvttSGlJTI+WG+8Z4cDWw==}
 
-  oauth4webapi@3.3.0:
-    resolution: {integrity: sha512-ZlozhPlFfobzh3hB72gnBFLjXpugl/dljz1fJSRdqaV2r3D5dmi5lg2QWI0LmUYuazmE+b5exsloEv6toUtw9g==}
+  oauth4webapi@3.8.5:
+    resolution: {integrity: sha512-A8jmyUckVhRJj5lspguklcl90Ydqk61H3dcU0oLhH3Yv13KpAliKTt5hknpGGPZSSfOwGyraNEFmofDYH+1kSg==}
 
   object-assign@4.1.1:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
@@ -27252,7 +27252,7 @@ snapshots:
 
   nullthrows@1.1.1: {}
 
-  oauth4webapi@3.3.0: {}
+  oauth4webapi@3.8.5: {}
 
   object-assign@4.1.1: {}
 
