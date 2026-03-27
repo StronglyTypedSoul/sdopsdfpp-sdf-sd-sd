@@ -683,8 +683,8 @@ importers:
         specifier: ^1.2.1
         version: 1.2.1
       jose:
-        specifier: ^6.0.6
-        version: 6.0.6
+        specifier: ^6.2.2
+        version: 6.2.2
       nodemailer:
         specifier: ^7.0.7
         version: 7.0.10
@@ -9403,11 +9403,11 @@ packages:
   jose@5.10.0:
     resolution: {integrity: sha512-s+3Al/p9g32Iq+oqXxkW//7jk2Vig6FF1CFqzVXoTUXt2qz89YWbL+OwS17NFYEvxC35n0FKeGO2LGYSxeM2Gg==}
 
-  jose@6.0.6:
-    resolution: {integrity: sha512-FFF9x3KcdRJgQo74X8e6I4D1h3Wtd27fEo0suijveKFc+HFz6M5gonqxFPnDos9ulJFRqMNqWI6NexiHQPSnfQ==}
-
   jose@6.1.0:
     resolution: {integrity: sha512-TTQJyoEoKcC1lscpVDCSsVgYzUDg/0Bt3WE//WiTPK6uOCQC2KZS4MpugbMWt/zyjkopgZoXhZuCi00gLudfUA==}
+
+  jose@6.2.2:
+    resolution: {integrity: sha512-d7kPDd34KO/YnzaDOlikGpOurfF0ByC2sEV4cANCtdqLlTfBlw2p14O/5d/zv40gJPbIQxfES3nSx1/oYNyuZQ==}
 
   js-base64@3.7.8:
     resolution: {integrity: sha512-hNngCeKxIUQiEUN3GPJOkz4wF/YvdUdbNL9hsBcMQTkKzboD7T/q3OYOuuPZLUE6dBxSGpwhk5mwuDud7JVAow==}
@@ -25290,9 +25290,9 @@ snapshots:
 
   jose@5.10.0: {}
 
-  jose@6.0.6: {}
-
   jose@6.1.0: {}
+
+  jose@6.2.2: {}
 
   js-base64@3.7.8:
     optional: true
