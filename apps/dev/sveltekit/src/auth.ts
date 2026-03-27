@@ -51,3 +51,4 @@ export const { handle, signIn, signOut } = SvelteKitAuth({
     logo: "https://authjs.dev/img/logo-sm.png",
   },
 })
+
